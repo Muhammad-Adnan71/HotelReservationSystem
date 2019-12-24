@@ -1,0 +1,11 @@
+hotelreservation.hotel
+hotelreservation.online_payment
+hotelreservation.Rooms
+hotelreservation.hotel$HotelReservation
+hotelreservation.HotelReservation
+hotelreservation.Large_kingsizeRoom
+hotelreservation.payment_method
+hotelreservation.penthouse_suiteRoom
+hotelreservation.hardcash_payment
+hotelreservation.Single_Room
+hotelreservation.Double_Room
